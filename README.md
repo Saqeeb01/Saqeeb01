@@ -1,7 +1,11 @@
 - 👋 Hi, I'm Mohammad Sakeeb Talikoti, a dedicated MERN Stack Developer.
+
 -👀 I'm passionate about crafting robust web applications using MongoDB, Express, React, and Node.js.
+
 -🌱 Currently enhancing my skills in front-end optimization and real-time communication technologies.
+
 -💞️ Excited to collaborate on innovative projects that challenge and inspire.
+
 -📫 Let's connect: talikotisaqib257@gmail.com.com | Portfolio: https://portfolio-mdsakeeb.netlify.app/
 
 <!---
